@@ -17,6 +17,4 @@ web: node simpleFilter.js
 web: node spamFilter.js
 web: node tagFilter.js
 web: node youtubeFilter.js
-web: node test_api.js
-web: node test_bot.js
-web: node test_complex_filter.js
+
