@@ -1,20 +1,3 @@
 web: node server.js
-web: node bot.js
-web: node constants.js
-web: node utilities.js
-web: node faceRecAPI.js
-web: node facebookAPI.js
-web: node girlAPI.js
-web: node googleAPI.js
-web: node simsimiAPI.js
-web: node wordpressAPI.js
-web: node buttonFilter.js
-web: node categoryFilter.js
-web: node endFilter.js
-web: node imageFilter.js
-web: node searchFilter.js
-web: node simpleFilter.js
-web: node spamFilter.js
-web: node tagFilter.js
-web: node youtubeFilter.js
+
 
